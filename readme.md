@@ -5,6 +5,7 @@
 
 
 # Prepare Datasets
+	the datasets can be download from : https://pan.quark.cn/s/fffabba6df8e
 	mkdir data
 	Download the person datasets Market-1501. Then unzip it and rename it under the directory like
 		data

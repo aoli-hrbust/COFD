@@ -1,10 +1,10 @@
 # The official repository for COFD-Net: Complete Object Feature Diffusion Network for Occluded Person Re-Identification.
 
-#Installation
+# Installation
 	pip install -r requirements.txt
 
 
-#Prepare Datasets
+# Prepare Datasets
 	mkdir data
 	Download the person datasets Market-1501. Then unzip it and rename it under the directory like
 		data
